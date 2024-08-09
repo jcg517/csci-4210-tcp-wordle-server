@@ -1,0 +1,4 @@
+*.out
+*.pdf
+*.txt
+!knuth-(34542-bytes).txt
